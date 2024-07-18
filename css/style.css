@@ -1,0 +1,27 @@
+.first-horizontal {
+    position: absolute;
+    background-color: rgb(206, 41, 57);
+    width: 100%;
+    height: 215px;
+    margin-top:-8px;
+    margin-left:-8px;
+}
+
+.second-horizontal {
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    height: 215px;
+    margin-top:207px;
+    margin-left:-8px;
+}
+
+.third-horizontal {
+    position: absolute;
+    background-color: rgb(71, 112, 80);
+    width: 100%;
+    height: 205px;
+    margin-left:-8px;
+    margin-top:419px;
+}
+
